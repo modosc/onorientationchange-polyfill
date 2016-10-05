@@ -1,0 +1,28 @@
+{
+  "name": "onorientationchange-polyfill",
+  "version": "0.0.1",
+  "description": "Polyfill for Safari's window.onorientationchange ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name" : "jonathan schatz",
+    "email" : "jon@divisionbyzero.com",
+    "url" : "https://github.com/modosc"
+  },
+  "dependencies": {
+    "debug": "^2.2.0"
+  },
+  "keywords": ["safari", "onorientationchange", "orientationchange", "orientation"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modosc/onorientationchange-polyfill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/modosc/onorientationchange-polyfill/issues"
+  },
+  "homepage": "https://github.com/modosc/onorientationchange-polyfill"
+
+}
